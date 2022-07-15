@@ -1,0 +1,16 @@
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\bin\Debug\net5.0\IMC-2.exe
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\bin\Debug\net5.0\IMC-2.deps.json
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\bin\Debug\net5.0\IMC-2.runtimeconfig.json
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\bin\Debug\net5.0\IMC-2.runtimeconfig.dev.json
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\bin\Debug\net5.0\IMC-2.dll
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\bin\Debug\net5.0\IMC-2.pdb
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\obj\Debug\net5.0\IMC-2.csproj.AssemblyReference.cache
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\obj\Debug\net5.0\IMC-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\obj\Debug\net5.0\IMC-2.AssemblyInfoInputs.cache
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\obj\Debug\net5.0\IMC-2.AssemblyInfo.cs
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\obj\Debug\net5.0\IMC-2.csproj.CoreCompileInputs.cache
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\obj\Debug\net5.0\IMC-2.dll
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\obj\Debug\net5.0\refint\IMC-2.dll
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\obj\Debug\net5.0\IMC-2.pdb
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\obj\Debug\net5.0\IMC-2.genruntimeconfig.cache
+C:\Users\usuário\Desktop\IMC-2\IMC-2\IMC-2\obj\Debug\net5.0\ref\IMC-2.dll
